@@ -1,16 +1,19 @@
-## Hi there 👋
+### Purvansh Arora
 
-<!--
-**purvansh17/purvansh17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ML Engineer working on computer vision and MLOps. Currently doing my MS in
+Computer Engineering at NYU (2025–2027).
 
-Here are some ideas to get you started:
+Before NYU I spent ~3 years at Cashify (Delhi NCR) building and deploying
+CV models for in-store device grading — segmentation and classification
+models running across 200+ retail stores, serving 10M+ inference requests.
+Most of my time went into the unglamorous half of ML: dataset curation,
+retraining pipelines, and getting models to behave in production.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I work on**
+- Computer vision — segmentation, classification, image preprocessing
+- MLOps — Airflow, MLflow, Docker, AWS (Lambda, S3, ECR, CloudWatch)
+- Python, PyTorch, OpenCV
+
+**Find me**
+- Email — purvansharora@gmail.com
+- LinkedIn — [purvansharora](https://linkedin.com/in/purvansharora)
