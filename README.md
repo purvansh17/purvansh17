@@ -20,4 +20,4 @@ Most of my time went into the unglamorous half of ML: dataset curation, automate
 
 ### Contact Information
 * **Email:** purvansharora@gmail.com
-* **LinkedIn:** [in/purvansharora](https://linkedin.com/in/purvansharora)
+* **LinkedIn:** [Purvansh Arora](https://linkedin.com/in/purvansharora)
