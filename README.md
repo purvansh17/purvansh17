@@ -1,20 +1,23 @@
-### Purvansh Arora
+# Purvansh Arora
+**Machine Learning Engineer | High-Performance ML & Scalable MLOps**
 
-ML Engineer working on computer vision and MLOps. Currently doing my MS in
-Computer Engineering at NYU (2025–2027).
+Currently pursuing an MS in Computer Engineering at NYU (GPA: 4.0). 
 
-Before NYU, I spent ~3 years at Cashify (Delhi NCR) building and deploying
-CV models for in-store device grading - segmentation and classification
-models running across 200+ retail stores, serving 10M+ inference requests.
-Most of my time went into the unglamorous half of ML: dataset curation,
-retraining pipelines, and getting models to behave in production.
+Previously, I spent ~3 years as an SDE III at Cashify building and deploying CV models for in-store device grading. I owned segmentation and classification models running across 200+ retail stores, serving 10M+ inference requests on 500K+ images. 
 
-**What I work on**
-- Computer vision — segmentation, classification, image preprocessing
-- MLOps — Airflow, MLflow, Docker, AWS (Lambda, S3, ECR, CloudWatch)
-- Python, PyTorch, OpenCV
+Most of my time went into the unglamorous half of ML: dataset curation, automated retraining pipelines, and getting models to actually behave reliably in production. Right now, I'm highly focused on hardware-level model optimization and building robust ML infrastructure.
 
-**Find me**
-- Email — purvansharora@gmail.com
-- LinkedIn — [purvansharora](https://linkedin.com/in/purvansharora)
-- GitHub —  Ummm..
+### 🛠️ Core Competencies
+
+* **High-Performance ML:** CUDA, Triton, FlashAttention-2, Token Merging, Distributed Training
+* **MLOps & Infrastructure:** Kubernetes, Apache Airflow, MLflow, Docker, AWS (Lambda, S3, ECR, CloudWatch)
+* **Computer Vision:** PyTorch, OpenCV, Segmentation, Classification
+* **Languages:** Python, C, SQL
+
+### 🚀 Featured Work
+* **[Accelerating ViTs]:** Implemented Token Merging (ToMe) and FlashAttention-2 custom kernels for ViT-B/16, achieving ~1.6x speedup and ~38% memory reduction on ImageNet inference.
+* **[Zulip AI Moderation]:** Designed an end-to-end CI/CD/CT pipeline for model deployment with automated drift detection and rollback using Airflow, MLflow, and Prometheus.
+
+### 📫 Let's Connect
+* **Email:** purvansharora@gmail.com
+* **LinkedIn:** [in/purvansharora](https://linkedin.com/in/purvansharora)
