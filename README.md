@@ -7,17 +7,17 @@ Previously, I spent ~3 years as an SDE III at Cashify building and deploying CV 
 
 Most of my time went into the unglamorous half of ML: dataset curation, automated retraining pipelines, and getting models to actually behave reliably in production. Right now, I'm highly focused on hardware-level model optimization and building robust ML infrastructure.
 
-### 🛠️ Core Competencies
+### Core Competencies
 
 * **High-Performance ML:** CUDA, Triton, FlashAttention-2, Token Merging, Distributed Training
 * **MLOps & Infrastructure:** Kubernetes, Apache Airflow, MLflow, Docker, AWS (Lambda, S3, ECR, CloudWatch)
 * **Computer Vision:** PyTorch, OpenCV, Segmentation, Classification
 * **Languages:** Python, C, SQL
 
-### 🚀 Featured Work
+### Featured Work
 * **[Accelerating ViTs]:** Implemented Token Merging (ToMe) and FlashAttention-2 custom kernels for ViT-B/16, achieving ~1.6x speedup and ~38% memory reduction on ImageNet inference.
 * **[Zulip AI Moderation]:** Designed an end-to-end CI/CD/CT pipeline for model deployment with automated drift detection and rollback using Airflow, MLflow, and Prometheus.
 
-### 📫 Let's Connect
+### Contact Information
 * **Email:** purvansharora@gmail.com
 * **LinkedIn:** [in/purvansharora](https://linkedin.com/in/purvansharora)
