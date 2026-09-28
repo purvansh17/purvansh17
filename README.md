@@ -1,7 +1,7 @@
 # Purvansh Arora
 **Machine Learning Engineer | High-Performance ML & Scalable MLOps**
 
-Currently pursuing an MS in Computer Engineering at NYU (GPA: 4.0). 
+Currently pursuing an MS in Computer Engineering at NYU. 
 
 Previously, I spent ~3 years as an SDE III at Cashify building and deploying CV models for in-store device grading. I owned segmentation and classification models running across 200+ retail stores, serving 10M+ inference requests on 500K+ images. 
 
